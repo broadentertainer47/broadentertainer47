@@ -2,6 +2,13 @@
                                                                                                                                                       
                                                               MILLION DOLLAR EXTREME PRESENTS: WORLD PEACE 4K                                                                                                                                                      
 
+UPDATE #1 (7/4/22) - Entirely reworked episode 1. Fixed issues with the audio quality (it is now in 5.1 instead of 2.1 stereo), fixed shortened tattoo graphic,
+and fixed an audio error with the Cop Killer performance. Episode 2 is complete and I'm now working on episode 3. Should be out within the next few months. Keep in
+mind this is a ONE MAN project. I have reached out to people who worked on WORLD PEACE (including Sam, Ruse, and an editor for Pomp&Clout) and have gotten nothing. No
+uncompressed graphics are anything (probably protected under a contract or something). The date of release might change but expect late August. Don't be disapointed 
+cuz you're getting 3 EPISODES AND THE (still kinda incomplete but not my fault really) SOUNDTRACK. Keep it bookmarked, it's still alive and well don't worry.
+Stay Tuned Shooters :)
+
   _____        __       
   \_   \_ __  / _| ___  
    / /\/ '_ \| |_ / _ \ 
@@ -94,66 +101,76 @@ TRACK == ARTIST == NAME == (IN ORDER OF APPEARANCE)
 3. Brian Ellis - Tripping - Wine Sketch Open
 4. Zachary Waltman - Blueridge - Tripped Wife
 5. Glue70 - Please Die (Drugs) - WP Tattoo Graphic
-6. Two One Six - Relief - The Man Who Would Never Be (Open)
-7. Cramped Skunkman - Floodwater - The Man Who Would Never Be
-8. John Maus - Cop Killer (Live) - 101 Performance
-9. Charls Carroll - Duke Dukem - Green Monsta Vanity Card Graphic
-10. Brian Ellis - Terminated - EVERY 102 Graphic
-11. Manfrendo Fest - Jungle Cat (Slowed) - Wall Show theme
-12. The Soft Moon - Try - 102 Performance
-13. Shishkebab - Helical Gut Grabber - 103 Open
-14. Brian Ellis - Smooth Calculator - Breakup Sketch (pt 1, Sam, Peanut Arbuckle)
-15. DJ Thrustworthy - Pharaoh - Lauren the Bitch Graphic
-16. Glue70 - Silver - Tap Water Sketch
-17. ZLA - Gravel - SBG and SBG Graphic
-18. Two One Six - For a Living - Breakup Sketch (pt 2, Charls, Backseat Girl)
-19. ZLA - FUPA - Big World Peace Graphic
-20. CognosSquare - COOL2 - Breakup Sketch (pt 3, Nick, car)
-[Missing Grab Her Arm Graphic]
-21. Ovlov - Really Bees - 103 Performance
-22. Brian Ellis - World Peace - 104 Open
-23. Ms. Gyroscope - Noisy Chimes - "Talent" Show Sketch (pt 1)
-24. ZLA - TRSB 303 - Fractal Scanner Graphic
-25. Ms. Gyroscope - Still Nothing Special (Music Box Mix) - Major League Swag-Out Sketch (pt 1)
-26. DJ Thrustworthy - Hypnotizing Wheel - Trex Intro
-27. Ms. Gyroscope - Metal Nettle - Flickering WP Symbol Graphic
-28. Ms. Gyroscope - Funny Break - MLSO Sketch Montage
-29. Ms. Gyroscope - Weird Beat - MLSO (pt 2)
-30. Cramped Skunkman - Vibes - Luck, Heart, Purity Graphic / Consent Hypno Graphic
-31. Elastic Plastic Generation - Uu Uu Uu - The Gulch Sketch
-32. Zachary Waltman - Falling Away From Me - Bad Mother Sketch (Bad Parent Sketch pt 1)
-33. Ms. Gyroscope - Booty Sounds - "Talent" Show Sketch (pt 2)
-34. Brian Ellis - Broken Glass Everywhere - Bad Father
-35. 3TEETH - Nihil - Bad Father to TSpt3 Transition
-36. Ms. Gyroscope - Carnival Shit - "Talent" Show Sketch (pt 3)
-37. Cramped Skunkman - Almond Cruise - 105 Open
-38. Zachary Waltman - Interlude 2 - Zone Fitness Sketch
-39. James Price - Sick Teeth - Asian Fish Feet Graphic
-40. Brian Ellis - Channel 17 News Theme - Bully Sketch Open
-41. Cramped Skunkman - New Dew - Bully Sketch
-42. Cramped Skunkman - Action News - Bully Sketch Outro
-43. Zachary Waltman - Running - Men's Health Agenda Graphic
-[Missing Hooker Sketch Intro]
-44. Cramped Skunkman - Turbines - Hooker Sketch (pt 1, Football QB, Charls)
-45. Brian Ellis - Pete's Gun (Slowed) - Hooker Sketch (pt 2, Gay Guy, Sam)
-46. Glue70 - Okay - Hooker Sketch (pt 3, Advice Man, Nick)
-47. ZLA - Arrest Scene - Hooker Sketch (outro)
-48. Chastity Belt - Drone - 105 Performance
-49. Cramped Skunkman - Bad - 106 Open
-50. Brian Ellis - Lone Wolf - One People Sketch
-51. Zachary Waltman feat. Alex Compton - track 1 - Radioactive WP Graphic
-52. James Price - Warehouse - The MURDER of JOE ROGAN (ON LIVE TV, STAYED TUNED GOYS) Graphic
-53. CongnosSquare - FLUM - College Party Sketch
-54. ZLA - Live Unclean - NOT FOR GIRLS Graphic
-55. Brian Ellis - Digital Love - HyperGenX Theme
-56. Brian Ellis - Bannana Seat (Slowed 75%) - Baseball Sketch
-57. Two One Six - Pulse - I PLEDGE ALLEGIENCE TO [OMITTED] Graphic
-58. Zachary Waltman - Brothers - The Next Generation Sketch / WP Eye Graphic
+6. Cramped Skunkman - Desolation Sound (excerpt) - Gym Sketch ending
+(Missing Suicide Note Graphic)
+(Missing Zuckerberg Sketch)
+(Missing People Graphic)
+7. Two One Six - Relief - The Man Who Would Never Be (Open)
+8. Cramped Skunkman - Floodwater - The Man Who Would Never Be
+9. John Maus - Cop Killer (Live) - 101 Performance
+19. Charls Carroll - Duke Dukem - Green Monsta Vanity Card Graphic
+11. Brian Ellis - Terminated - EVERY 102 Graphic
+(Missing Wall Show Opening)
+12. Million Dollar Extreme - Jew's Rock! - Jew's Rock!
+13. Manfrendo Fest - Jungle Cat (Slowed) - Wall Show theme
+14. Zachary Waltman - Tied to a Tree - CEO ERICK HAYDEN Sketch*
+15. The Soft Moon - Try - 102 Performance
+16. Shishkebab - Helical Gut Grabber - 103 Open
+17. Brian Ellis - Smooth Calculator - Breakup Sketch (pt 1, Sam, Peanut Arbuckle)
+18. DJ Thrustworthy - Pharaoh - Lauren the Bitch Graphic
+19. Glue70 - Silver - Tap Water Sketch
+20. ZLA - Gravel - SBG and SBG Graphic
+21. Two One Six - For a Living - Breakup Sketch (pt 2, Charls, Backseat Girl)
+22. ZLA - FUPA - Big World Peace Graphic
+23. CognosSquare - COOL2 - Breakup Sketch (pt 3, Nick, car)
+(Missing Grab Her Arm Graphic)
+24. Ovlov - Really Bees - 103 Performance
+25. Brian Ellis - World Peace - 104 Open
+26. Ms. Gyroscope - Noisy Chimes - "Talent" Show Sketch (pt 1)
+27. ZLA - TRSB 303 - Fractal Scanner Graphic
+28. Ms. Gyroscope - Still Nothing Special (Music Box Mix) - Major League Swag-Out Sketch (pt 1)
+29. DJ Thrustworthy - Hypnotizing Wheel - Trex Intro
+30. Ms. Gyroscope - Metal Nettle - Flickering WP Symbol Graphic
+31. Ms. Gyroscope - Funny Break - MLSO Sketch Montage
+32. Ms. Gyroscope - Weird Beat - MLSO (pt 2)
+33. Cramped Skunkman - Vibes - Luck, Heart, Purity Graphic / Consent Hypno Graphic
+34. Elastic Plastic Generation - Uu Uu Uu - The Gulch Sketch
+35. Zachary Waltman - Falling Away From Me - Bad Mother Sketch (Bad Parent Sketch pt 1)
+36. Ms. Gyroscope - Booty Sounds - "Talent" Show Sketch (pt 2)
+37. Brian Ellis - Broken Glass Everywhere - Bad Father
+38. 3TEETH - Nihil - Bad Father to TSpt3 Transition
+39. Ms. Gyroscope - Carnival Shit - "Talent" Show Sketch (pt 3)
+40. Cramped Skunkman - Almond Cruise - 105 Open
+41. Zachary Waltman - Interlude 2 - Zone Fitness Sketch
+42. James Price - Sick Teeth - Asian Fish Feet Graphic
+43. Brian Ellis - Channel 17 News Theme - Bully Sketch Open
+44. Cramped Skunkman - New Dew - Bully Sketch
+45. Cramped Skunkman - Action News - Bully Sketch Outro
+46. Zachary Waltman - Running - Men's Health Agenda Graphic*
+(Missing Hooker Sketch Intro)
+47. Cramped Skunkman - Turbines - Hooker Sketch (pt 1, Football QB, Charls)
+48. Brian Ellis - Pete's Gun (Slowed) - Hooker Sketch (pt 2, Gay Guy, Sam)
+49. Glue70 - Okay - Hooker Sketch (pt 3, Advice Man, Nick)
+50. ZLA - Arrest Scene - Hooker Sketch (outro)
+51. Chastity Belt - Drone - 105 Performance
+52. Cramped Skunkman - Bad - 106 Open
+53. Brian Ellis - Lone Wolf - One People Sketch
+54. Zachary Waltman feat. Alex Compton - track 1 - Radioactive WP Graphic
+55. James Price - Warehouse - The MURDER of JOE ROGAN (ON LIVE TV, STAYED TUNED GOYS) Graphic
+56. CongnosSquare - FLUM - College Party Sketch
+57. ZLA - Live Unclean - NOT FOR GIRLS Graphic
+58. Brian Ellis - Digital Love - HyperGenX Theme
+59. Brian Ellis - Bannana Seat (Slowed 75%) - Baseball Sketch
+60. Two One Six - Pulse - I PLEDGE ALLEGIENCE TO [OMITTED] Graphic
+61. Zachary Waltman - Brothers - The Next Generation Sketch / WP Eye Graphic
 ===BONUS TRAXXX===
-59. Nowtro & Droid Bishop - Neon Marathon (Droid Bishop remix) - WP S1 Trailer
-60. John Maus - Hey Moon - Censored 101 Ending
-61. Suzanne Vega - Tom's Diner - Alt Baseball Sketch Intro
-62. MDE - SAPIEN 2016 - SAPIEN 2016 Theme
+62. Nowtro & Droid Bishop - Neon Marathon (Droid Bishop remix) - WP S1 Trailer
+63. John Maus - Hey Moon - Censored 101 Ending
+64. Suzanne Vega - Tom's Diner - Alt Baseball Sketch Intro
+65. MDE - SAPIEN 2016 - SAPIEN 2016 Theme
+
+*Missing but identified
+
 
 
 Will continue with updates soon. World Peace.
