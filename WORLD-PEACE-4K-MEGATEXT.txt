@@ -31,24 +31,20 @@ I'll edit this public paste with the information. So if you're interested: KEEP 
 
 PROGRESS AND ROADMAP:
 
-Episode #01: INCOMPLETE
-What I have uploaded for episode 1 right now is an incomplete version of what I want it to be. There were issues upscaling some graphics, and the audio quality is
-pretty bad. I've been trying to improve episode 1's graphics (specifically the intro) for months now and haven't gotten far. Hopefully I can get my hands on some
-better rips instead of the 1080p version of [OMITTED]. However aside from this, everything that is featured in episode 1 is final at the moment. As of right now I
-am going back and re-editing the audio for better quality.
+Episode #01: COMPLETE
+Fixed pretty much everything, simply awaited release.
 
-Episode #02: EDITING/UPSCALING
+Episode #02: NEAR COMPLETION/UPSCALING
 Episode 2's graphics are very detailed, albeit very stylistically similar to each other. If you look at the imgur, you can see each and every individual pattern
-within the graphic. Whether it be scanlines or stylistic pixels, the upscaling software does not respect this and I have had a very hard time trying to get these
-graphics to look nice.
+within the graphic. Whether it be scanlines or stylistic pixels, the upscaling software does not respect this and I've STILL been having a very hard time trying to get these graphics to look nice.
 
-Episode #03: EDITING/UPSCALING
-Episode 3's graphics are almost done. It's just a matter of perfecting them to the point of where I am happy with the result. This is not the priority at the moment
-and will be released either with e2 or e4.
+Episode #03: FINISHING UP EDITING
+Episode 3's graphics are done for the most part. It's just a matter of perfecting them to the point of where I am happy with the result.
 
-Episode #04: GRAPHICS
-I've been having trouble with the graphics on this one for a while now. If you look at the comparison picture I posted prior, you can see clearly that it says
-"MDE PRESENTS" on the top of the opening graphic. Getting this to look clear without disrupting the scanlines/pixels/noise is a hassle to say the least. 
+Episode #04: ON HOLD
+I've STILL been having trouble with the graphics on this one for a while now. If you look at the comparison picture I posted prior, you can see clearly that it says
+"MDE PRESENTS" on the top of the opening graphic. Getting this to look clear without disrupting the scanlines/pixels/noise is a hassle to say the least. It is ON HOLD
+as of July 4th, 2022.
 
 Episode #05: NOT STARTED
 Episode 5 has not been started.
@@ -64,10 +60,10 @@ Here is some additional content I plan to release at the end of WP4K's developme
 	Moms - 4K upscale
 	Ideas Man - 4K upscale
 	Officer Maggot - 4K upscale
-	John Maus - Cop Killer Music Video*
+	John Maus - Cop Killer Music Video* [COMPLETED]
 	The Soft Moon - Try Music Video*
-	The Soft Moon - Try Music Video (Director's Cut)**
-	Ovlov - Really Bees Music Video*
+	The Soft Moon - Try Music Video (Director's Cut) - 4K Upscale**
+	Ovlov - Really Bees Music Video* [NEAR COMPLETION]
 	3TEETH - NIHIL Music Video*
 	Chastity Belt - Drone Music Video*
 	[OMITTED] - a graphics cut with WP4K's graphics
