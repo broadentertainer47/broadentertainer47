@@ -1,15 +1,15 @@
                                                                                                                                                                                
                                                                                                                                                       
-                                                              MILLION DOLLAR EXTREME PRESENTS: WORLD PEACE 4K                                                                                                                                                      
+                                                              MILLION DOLLAR EXTREME PRESENTS: WORLD PEACE 4K                        
+							      
+							      
+							      
+UPDATE #3 (8/14/22): Finally, "Phase 1" of the WP4k Project has been completed. Yeah, this project is in "phases." Phase 1 was episodes 1-3, Phase 2 is
+episodes 4-6, and Phase 3 is all additional content. With Phase 1 out of the way and me back home from my week-long vacation, Phase 2 is starting.
+I've been fixing 1-3 as much as I can, and trying to combat every single critique so that it's perfect. I want this to become the definitive way to
+watch WORLD PEACE. Oh btw, Phase 2 is schedueled for September 16th (the original airdate of WP's finale, 6 years ago). OK bye.
 
-UPDATE #2 (7/18/22): I am entirely reworking the way I would create WP4K lol. Instead of editing, upscaling graphics, editing, upscaling to 4k final product, I
-decided to change things up. Instead of the current method, I will cut out all gfx and upscale all live-action footage first. THEN I will run the gfx through
-individually, experimenting until I get the best and most faithful output. Another update due to this change: Episodes 1-3 might see a release in early August
-(I'm thinking the 5th since it would make it WP's 6th Birthday). A trailer will drop soon confirming this. As for the soundtrack video, I've been having trouble
-uploading it (since it is 4 HOURS LONG!). I will try my hardest to get this sorted out as fast as possible. The soundtrack video not only includes 4 hours of music
-(including some more obscure tracks which will be listed below in the MUSIC section), but also includes visuals to represent each track. Stay tuned and PLEASE promote
-this shit. I want the community to be well aware of this project and not just r/bombstrap. ANYWHERE that has some sort of connection to MDE, whether it be the cumtown
-forums, MDE/LSP discord, MondoMegabits discord, youtube, whatever. Peace.
+
 
   _____        __       
   \_   \_ __  / _| ___  
@@ -34,24 +34,22 @@ I'll edit this public paste with the information. So if you're interested: KEEP 
 PROGRESS AND ROADMAP:
 
 Episode #01: COMPLETE
-Fixed pretty much everything, simply awaiting release.
+RELEASED. AWAITING A RE-RELEASE WITH FIXES.
 
 Episode #02: COMPLETE
-Awaiting August 5th release date.
+RELEASED. AWAITING A RE-RELEASE WITH FIXES.
 
 Episode #03: COMPLETE
-Awaiting August 5th release date.
+RELEASED. AWAITING A RE-RELEASE WITH FIXES.
 
-Episode #04: ON HOLD
-I've STILL been having trouble with the graphics on this one for a while now. If you look at the comparison picture I posted prior, you can see clearly that it says
-"MDE PRESENTS" on the top of the opening graphic. Getting this to look clear without disrupting the scanlines/pixels/noise is a hassle to say the least. It is ON HOLD
-as of July 4th, 2022.
+Episode #04: IN PROGRESS
+WILL (MAYBE/PROBABLY/HOPEFULLY) BE READY FOR RELEASE ON SEPTEMBER 16th, ALONG WITH THE 1-3 FIXES
 
-Episode #05: NOT STARTED
-Episode 5 has not been started.
+Episode #05: IN PROGRESS
+WILL (MAYBE/PROBABLY/HOPEFULLY) BE READY FOR RELEASE ON SEPTEMBER 16th, ALONG WITH THE 1-3 FIXES
 
-Episode #06: NOT STARTED
-Episode 6 has not been started.
+Episode #06: IN PROGRESS
+WILL (MAYBE/PROBABLY/HOPEFULLY) BE READY FOR RELEASE ON SEPTEMBER 16th, ALONG WITH THE 1-3 FIXES
 
 ===ADDITIONAL CONTENT===
 Here is some additional content I plan to release at the end of WP4K's development.
@@ -178,9 +176,18 @@ TRACK == ARTIST == NAME == (IN ORDER OF APPEARANCE)
 
 Previous Updates:
 
-UPDATE #1 (7/4/22) - Entirely reworked episode 1. Fixed issues with the audio quality (it is now in 5.1 instead of 2.1 stereo), fixed shortened tattoo graphic,
+UPDATE #1 (7/4/22): Entirely reworked episode 1. Fixed issues with the audio quality (it is now in 5.1 instead of 2.1 stereo), fixed shortened tattoo graphic,
 and fixed an audio error with the Cop Killer performance. Episode 2 is complete and I'm now working on episode 3. Should be out within the next few months. Keep in
 mind this is a ONE MAN project. I have reached out to people who worked on WORLD PEACE (including Sam, Ruse, and an editor for Pomp&Clout) and have gotten nothing. No
 uncompressed graphics are anything (probably protected under a contract or something). The date of release might change but expect late August. Don't be disapointed 
 cuz you're getting 3 EPISODES AND THE (still kinda incomplete but not my fault really) SOUNDTRACK. Keep it bookmarked, it's still alive and well don't worry.
 Stay Tuned Shooters :)
+
+UPDATE #2 (7/18/22): I am entirely reworking the way I would create WP4K lol. Instead of editing, upscaling graphics, editing, upscaling to 4k final product, I
+decided to change things up. Instead of the current method, I will cut out all gfx and upscale all live-action footage first. THEN I will run the gfx through
+individually, experimenting until I get the best and most faithful output. Another update due to this change: Episodes 1-3 might see a release in early August
+(I'm thinking the 5th since it would make it WP's 6th Birthday). A trailer will drop soon confirming this. As for the soundtrack video, I've been having trouble
+uploading it (since it is 4 HOURS LONG!). I will try my hardest to get this sorted out as fast as possible. The soundtrack video not only includes 4 hours of music
+(including some more obscure tracks which will be listed below in the MUSIC section), but also includes visuals to represent each track. Stay tuned and PLEASE promote
+this shit. I want the community to be well aware of this project and not just r/bombstrap. ANYWHERE that has some sort of connection to MDE, whether it be the cumtown
+forums, MDE/LSP discord, MondoMegabits discord, youtube, whatever. Peace.
