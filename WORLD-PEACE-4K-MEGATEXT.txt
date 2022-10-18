@@ -4,12 +4,18 @@
 							      
 							      
 							      
-UPDATE 4 (9/16/22): It's pretty much all finished. FINALLY. And it looks good as shit too. Probably the highest quality I've seen. The only problem is file bloat.
-I want to upload it but MEGA has a 20GB limit, and WP4K as it stands is 50GB. Finding a way to compress the files without loss of quality, because I KNOW that it's
-just file bloat. Regardless, Season 1's overall quality is unbelievable. The recognition I am recieving for this project is great too, as YouTuber EbenFell
-just repped the project and would advertise to his followers once complete. Amazing. Phase 3 is next. Be ready. If you guys sense a pattern, I've been releasing
-WP4K on key dates for the series. 1-3 were released on the 6 year anniversary of the debut, while 4-6 were released when the series finale aired 6 years ago. So,
-just to keep with tradition, the rest of the shit ("Phase 3") will be out on DECEMBER 5th 2022. 
+UPDATE 5 (10/17/22): It's been out for a month now. [OMITTED 4K] is up on the channel. Cancelled the music videos cuz it's gonna eat up the time that I could be using
+on the actually good extras. Working as fast as I can to fix everything wrong with the episodes currently, while also creating extras. December 5th is the release
+date as of now, but things might change depending on my personal life or whatnot. Working on a torrent too for all who hate DDL or streaming for whatever reason.
+Some of extras that are (hopefully) going to be out by December are the Lock Cut (found here: https://vimeo.com/303405535), Sci-Fi/Sapien 2016
+(https://www.youtube.com/watch?v=k1jF231RHmc) and the "Hidden Cuts" (https://www.youtube.com/watch?v=JN3vNoY1go4), which will all be upscaled and remastered to 4K.
+Specifically for the Hidden Cuts and Sci-Fi pilot will I be adding some extra things to make it flow like an actual episode of the show. Touching up rough editing and
+colors will be done to those two works specifically, along with adding fanmade or unused graphics in between sketches (the fanmade graphics look actually legit don't
+worry haha I've got a few good ones selected), and some more stuff. Hope you all enjoy, and if you don't: COME KILL US.
+
+
+
+(jk I'll have a standard "pure" cut for the scifi and hidden cuts that are just upscaled to 4K and nothing else. Peace.)
 
 
 
@@ -45,27 +51,23 @@ EXTRAS & MORE: IN PROGRESS
 Here is some additional content I plan to release at the end of WP4K's development.
 
 	Million Dollar Extreme Presents: Sapien 2016 (Sci-Fi Pilot) - 4K upscale
-	MDE E101 (Rough Pilot) - 4K upscale
+	MDE E101 (Lock Cut) - 4K upscale
+	World Peace Pilot aka "The Hidden Cuts" - 4K upscale
 	Moms - 4K upscale
 	Ideas Man - 4K upscale
 	Officer Maggot - 4K upscale
-	John Maus - Cop Killer Music Video* [COMPLETED]
-	The Soft Moon - Try Music Video*
-	The Soft Moon - Try Music Video (Director's Cut) - 4K Upscale**
-	Ovlov - Really Bees Music Video* [COMPLETED]
-	3TEETH - NIHIL Music Video*
-	Chastity Belt - Drone Music Video*
-	[OMITTED] - a graphics cut with WP4K's graphics
-	Behind The Scenes - pictures and videos of World Peace's production (many have been compiled already)
+	~~John Maus - Cop Killer Music Video~~ [COMPLETED]
+	~~The Soft Moon - Try Music Video~~ [CANCELLED, UNNECESSARY]
+	~~The Soft Moon - Try Music Video (Director's Cut)~~ [CANCELLED, UNNECESSARY]
+	~~Ovlov - Really Bees Music Video~~ [COMPLETED]
+	~~3TEETH - NIHIL Music Video~~ [CANCELLED, UNNECESSARY]
+	~~Chastity Belt - Drone Music Video~~ [CANCELLED, UNNECESSARY]
+	[OMITTED 4K] - [COMPLETED]
+	Behind The Scenes - pictures and videos of World Peace's production (still growing)
 	WP Promos and [AS] Bumps - there is still a lot to find, but I have found some
-	Million Dollar Extreme Presents: WORLD PEACE Official Soundtrack***
+	Million Dollar Extreme Presents: WORLD PEACE Official Soundtrack*
 
-*"music videos" will be edited in full and will feature the entire song, not just a snippet
-
-**I'm talking about an certain video that Ruse made. Apparently The Soft Moon's music segment was a lot longer than what we saw in
-world peace (https://www.youtube.com/watch?v=rgLsl2717zg)
-
-***
+*
 '||    ||' '||'  '|'  .|'''.|  '||'   ..|'''.|
  |||  |||   ||    |   ||..  '   ||  .|'     ' 
  |'|..'||   ||    |    ''|||.   ||  ||        
@@ -81,7 +83,7 @@ download in standard 320kbps MP3 format, but will also feature a FLAC counterpar
 PLEASE DM me on reddit. My user is r/broad_entertainer_47. I will respond as soon as possible.
 
 TRACK == ARTIST == NAME == (IN ORDER OF APPEARANCE)
-1. Glue70 - Okay (Slowed 400%) - e101 "opening jingle", e101 people graphic, hooker sketch (pt 3, Nick, Advice Man)
+1. Glue70 - Okay (Slowed 400%) - e101 "opening jingle"
 2. Cramped Skunkman - Cool Breeze Midweek - 101 (uncensored) Open
 3. James Price - 2015.04.04 - 101 [AS] Open
 4. Brian Ellis - Tripping - Wine Sketch Open
@@ -90,73 +92,74 @@ TRACK == ARTIST == NAME == (IN ORDER OF APPEARANCE)
 7. Cramped Skunkman - Desolation Sound (excerpt) - Gym Sketch ending
 8. (Missing Suicide Note Graphic)
 9. (Missing Zuckerberg Sketch)
-10. Two One Six - Relief - The Man Who Would Never Be (Open)
-11. Cramped Skunkman - Floodwater - The Man Who Would Never Be
-12. John Maus - Cop Killer (Live) - 101 Performance
-13. John Maus - Hey Moon - CENSORED 101 Performance
-14. Charls Carroll - Duke Dukem - Green Monsta Vanity Card Graphic
-15. Brian Ellis - Terminated - EVERY 102 Graphic
-16. (Missing Wall Show Opening)
-17. (Missing Wall Show Jingle)
-18. (Missing Wall Show Bagpipes)
-19. Million Dollar Extreme - Jew's Rock! - Jew's Rock!
-20. Manfrendo Fest - Jungle Cat (Slowed) - Wall Show theme
-21. Zachary Waltman - Tied to a Tree - CEO ERICK HAYDEN Sketch*
-22. The Soft Moon - Try - 102 Performance
-23. Shishkebab - Helical Gut Grabber - 103 Open
-24. Brian Ellis - Smooth Calculator - Breakup Sketch (pt 1, Sam, Peanut Arbuckle)
-25. DJ Thrustworthy - Pharaoh - Lauren the Bitch Graphic
-26. (Missing Tap Water Opening)
-27. Glue70 - Silver - Tap Water Sketch
-28. ZLA - Gravel - SBG and SBG Graphic
-29. Two One Six - For a Living - Breakup Sketch (pt 2, Charls, Backseat Girl)
-30. ZLA - FUPA - Big World Peace Graphic
-31. CognosSquare - COOL2 - Breakup Sketch (pt 3, Nick, car)
-32. (Missing Grab Her Arm Graphic)
-33. (Missing Teacher Rant Ambience)
-34. Ovlov - Really Bees - 103 Performance
-35. Brian Ellis - World Peace - 104 Open
-36. Ms. Gyroscope - Noisy Chimes - "Talent" Show Sketch (pt 1)
-37. ZLA - TRSB 303 - Fractal Scanner Graphic
-38. Ms. Gyroscope - Still Nothing Special (Music Box Mix) - Major League Swag-Out Sketch (pt 1)
-39. DJ Thrustworthy - Hypnotizing Wheel - Trex Intro
-40. Ms. Gyroscope - Metal Nettle - Flickering WP Symbol Graphic
-41. Ms. Gyroscope - Funny Break - MLSO Sketch Montage
-42. Ms. Gyroscope - Weird Beat - MLSO (pt 2)
-43. Cramped Skunkman - Vibes - Luck, Heart, Purity Graphic / Consent Hypno Graphic
-44. Elastic Plastic Generation - Uu Uu Uu - The Gulch Sketch
-45. Zachary Waltman - Falling Away From Me - Bad Mother Sketch (Bad Parent Sketch pt 1)
-46. Ms. Gyroscope - Booty Sounds - "Talent" Show Sketch (pt 2)
-47. Brian Ellis - Broken Glass Everywhere - Bad Father
-48. 3TEETH - Nihil - Bad Father to TSpt3 Transition
-49. Ms. Gyroscope - Carnival Shit - "Talent" Show Sketch (pt 3)
-50. Cramped Skunkman - Almond Cruise - 105 Open
-51. Zachary Waltman - Interlude 2 - Zone Fitness Sketch
-52. James Price - Sick Teeth - Asian Fish Feet Graphic
-53. Brian Ellis - Channel 17 News Theme - Bully Sketch Open
-54. Cramped Skunkman - New Dew - Bully Sketch
-55. Cramped Skunkman - Action News - Bully Sketch Outro
-56. Zachary Waltman - Running - Men's Health Agenda Graphic*
-57. (Missing Hooker Sketch Intro)
-58. Cramped Skunkman - Turbines - Hooker Sketch (pt 1, Football QB, Charls)
-59. Brian Ellis - Pete's Gun (Slowed) - Hooker Sketch (pt 2, Gay Guy, Sam)
-60. Glue70 - Okay - Hooker sketch (pt 3, Advice Man, Nick)
-61. ZLA - Arrest Scene - Hooker Sketch (outro)
-62. Chastity Belt - Drone - 105 Performance
-63. Cramped Skunkman - Bad - 106 Open
-64. Brian Ellis - Lone Wolf - One People Sketch
-65. Zachary Waltman feat. Alex Compton - track 1 - Radioactive WP Graphic
-66. James Price - Warehouse - The MURDER of JOE ROGAN (ON LIVE TV, STAYED TUNED GOYS) Graphic
-67. CongnosSquare - FLUM - College Party Sketch
-68. ZLA - Live Unclean - NOT FOR GIRLS Graphic
-69. Brian Ellis - Digital Love - HyperGenX Theme
-70. Brian Ellis - Bannana Seat (Slowed 75%) - Baseball Sketch
-71. Two One Six - Pulse - I PLEDGE ALLEGIENCE TO [OMITTED] Graphic
-72. Zachary Waltman - Brothers - The Next Generation Sketch / WP Eye Graphic
+10. Glue70 - Okay (Slowed 400% and Reversed) - e101 people graphic
+11. Two One Six - Relief - The Man Who Would Never Be (Open)
+12. Cramped Skunkman - Floodwater - The Man Who Would Never Be
+13. John Maus - Cop Killer (Live) - 101 Performance
+14. John Maus - Hey Moon - CENSORED 101 Performance
+15. Charls Carroll - Duke Dukem - Green Monsta Vanity Card Graphic
+16. Brian Ellis - Terminated - EVERY 102 Graphic
+17. (Missing Wall Show Opening)
+18. (Missing Wall Show Jingle)
+19. (Missing Wall Show Bagpipes)
+20. Million Dollar Extreme - Jew's Rock! - Jew's Rock!
+21. Manfrendo Fest - Jungle Cat (Slowed) - Wall Show theme
+22. Zachary Waltman - Tied to a Tree - CEO ERICK HAYDEN Sketch*
+23. The Soft Moon - Try - 102 Performance
+24. Shishkebab - Helical Gut Grabber - 103 Open
+25. Brian Ellis - Smooth Calculator - Breakup Sketch (pt 1, Sam, Peanut Arbuckle)
+26. DJ Thrustworthy - Pharaoh - Lauren the Bitch Graphic
+27. (Missing Tap Water Opening)
+28. Glue70 - Silver - Tap Water Sketch
+29. ZLA - Gravel - SBG and SBG Graphic
+30. Two One Six - For a Living - Breakup Sketch (pt 2, Charls, Backseat Girl)
+31. ZLA - FUPA - Big World Peace Graphic
+32. CognosSquare - COOL2 - Breakup Sketch (pt 3, Nick, car)
+33. (Missing Grab Her Arm Graphic)
+34. (Missing Teacher Rant Ambience)
+35. Ovlov - Really Bees - 103 Performance
+36. Brian Ellis - World Peace - 104 Open
+37. Ms. Gyroscope - Noisy Chimes - "Talent" Show Sketch (pt 1)
+38. ZLA - TRSB 303 - Fractal Scanner Graphic
+39. Ms. Gyroscope - Still Nothing Special (Music Box Mix) - Major League Swag-Out Sketch (pt 1)
+40. DJ Thrustworthy - Hypnotizing Wheel - Trex Intro
+41. Ms. Gyroscope - Metal Nettle - Flickering WP Symbol Graphic
+42. Ms. Gyroscope - Funny Break - MLSO Sketch Montage
+43. Ms. Gyroscope - Weird Beat - MLSO (pt 2)
+44. Cramped Skunkman - Vibes - Luck, Heart, Purity Graphic / Consent Hypno Graphic
+45. Elastic Plastic Generation - Uu Uu Uu - The Gulch Sketch
+46. Zachary Waltman - Falling Away From Me - Bad Mother Sketch (Bad Parent Sketch pt 1)
+47. Ms. Gyroscope - Booty Sounds - "Talent" Show Sketch (pt 2)
+48. Brian Ellis - Broken Glass Everywhere - Bad Father
+49. 3TEETH - Nihil - Bad Father to TSpt3 Transition
+50. Ms. Gyroscope - Carnival Shit - "Talent" Show Sketch (pt 3)
+51. Cramped Skunkman - Almond Cruise - 105 Open
+52. Zachary Waltman - Interlude 2 - Zone Fitness Sketch
+53. James Price - Sick Teeth - Asian Fish Feet Graphic
+54. Brian Ellis - Channel 17 News Theme - Bully Sketch Open
+55. Cramped Skunkman - New Dew - Bully Sketch
+56. Cramped Skunkman - Action News - Bully Sketch Outro
+57. Zachary Waltman - Running - Men's Health Agenda Graphic*
+58. (Missing Hooker Sketch Intro)
+59. Cramped Skunkman - Turbines - Hooker Sketch (pt 1, Football QB, Charls)
+60. Brian Ellis - Pete's Gun (Slowed) - Hooker Sketch (pt 2, Gay Guy, Sam)
+61. Glue70 - Okay - Hooker sketch (pt 3, Advice Man, Nick)
+62. ZLA - Arrest Scene - Hooker Sketch (outro)
+63. Chastity Belt - Drone - 105 Performance
+64. Cramped Skunkman - Bad - 106 Open
+65. Brian Ellis - Lone Wolf - One People Sketch
+66. Zachary Waltman feat. Alex Compton - track 1 - Radioactive WP Graphic
+67. James Price - Warehouse - The MURDER of JOE ROGAN (ON LIVE TV, STAYED TUNED GOYS) Graphic
+68. CongnosSquare - FLUM - College Party Sketch
+69. ZLA - Live Unclean - NOT FOR GIRLS Graphic
+70. Brian Ellis - Digital Love - HyperGenX Theme
+71. Brian Ellis - Bannana Seat (Slowed 75%) - Baseball Sketch
+72. Two One Six - Pulse - I PLEDGE ALLEGIENCE TO [OMITTED] Graphic
+73. Zachary Waltman - Brothers - The Next Generation Sketch / WP Eye Graphic
 ===BONUS TRAXXX===
-73. Nowtro & Droid Bishop - Neon Marathon (Droid Bishop remix) - WP S1 Trailer
-74. Suzanne Vega - Tom's Diner - Alt Baseball Sketch Intro
-75. MDE - SAPIEN 2016 - SAPIEN 2016 Theme
+74. Nowtro & Droid Bishop - Neon Marathon (Droid Bishop remix) - WP S1 Trailer
+75. Suzanne Vega - Tom's Diner - Alt Baseball Sketch Intro
+76. MDE - SAPIEN 2016 - SAPIEN 2016 Theme
 
 *Missing but identified
 
@@ -186,3 +189,10 @@ UPDATE #3 (8/14/22): Finally, "Phase 1" of the WP4k Project has been completed. 
 episodes 4-6, and Phase 3 is all additional content. With Phase 1 out of the way and me back home from my week-long vacation, Phase 2 is starting.
 I've been fixing 1-3 as much as I can, and trying to combat every single critique so that it's perfect. I want this to become the definitive way to
 watch WORLD PEACE. Oh btw, Phase 2 is schedueled for September 16th (the original airdate of WP's finale, 6 years ago). OK bye.
+
+UPDATE 4 (9/16/22): It's pretty much all finished. FINALLY. And it looks good as shit too. Probably the highest quality I've seen. The only problem is file bloat.
+I want to upload it but MEGA has a 20GB limit, and WP4K as it stands is 50GB. Finding a way to compress the files without loss of quality, because I KNOW that it's
+just file bloat. Regardless, Season 1's overall quality is unbelievable. The recognition I am recieving for this project is great too, as YouTuber EbenFell
+just repped the project and would advertise to his followers once complete. Amazing. Phase 3 is next. Be ready. If you guys sense a pattern, I've been releasing
+WP4K on key dates for the series. 1-3 were released on the 6 year anniversary of the debut, while 4-6 were released when the series finale aired 6 years ago. So,
+just to keep with tradition, the rest of the shit ("Phase 3") will be out on DECEMBER 5th 2022. 
